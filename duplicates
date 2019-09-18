@@ -1,0 +1,10 @@
+#program to read a list of elements
+#create a list which holds all the elements minus the duplicate(make use of functions)
+def remove_duplicates(numbers):
+newlist=[]
+for i in numbers:
+if i not in newlist:
+newlist.append(i)
+print(newlist);
+return newlist
+remove_duplicates([1,2,3,4,5,1,2,3,4,5]) 
