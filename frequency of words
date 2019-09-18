@@ -1,0 +1,6 @@
+#to count the frequency of a word in given file. You have to create a file with .txt.Collections is a library and importing a class called counter.
+from collections import Counter
+def count_word(fname):
+with open(fname) as f :
+return Counter(f.read().split())
+print("Number of words in the file:",count_word("111.txt")) 
