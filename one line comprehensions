@@ -1,0 +1,9 @@
+#Python program to read in a list of numbers
+#use one-line comprehensions to create a list of even numbers
+#create another list of even numbers
+#read elements to list. x is an iterator and S and M are lists.
+S=[x**2 for x in range(10)]
+ #x**2 is x square
+M=[x for x in S if x % 2 == 0]
+M.reverse()
+print(M)
