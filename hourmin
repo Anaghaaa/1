@@ -1,0 +1,7 @@
+num=int(input("Enter time in minutes"))
+if num<60:
+    print("0:",num)
+else:
+    hour=num//60
+    min1=num%60
+    print(hour,":",min1)
