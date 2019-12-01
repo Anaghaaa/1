@@ -51,14 +51,17 @@
 ## Screenshots:
 * My GitHub Repository
 
-![](images/img3.PNG)
+![](images/Screenshot(11).PNG)
 
 * Python Programs
 
-![](images/img2.PNG)
+![](images/Screenshot(12).PNG)
 
 * Javascript Programs
 
-![](images/img1.PNG)
+![](images/Screenshot(13).PNG)
 
+* Datascience
+
+![](images/Screenshot(14).PNG)
 
